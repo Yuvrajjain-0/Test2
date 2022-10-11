@@ -15,6 +15,7 @@ sdfsfd
 
 <h4> Feel free to contribute to this repo by creating and editing little programs in any programming language and make different folders for the code you want to contribute. </h4>
 
+Heyyyyyy
 If you want to practice to make a pull request
 
 Check out `good-first-issues` for contributing [here](https://github.com/sj5027052/Hacktoberfest2022/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
@@ -59,7 +60,7 @@ If you like this project, please consider supporting it by giving it a ⭐️. I
 - This project and other projects listed above are a part of Hacktoberfest 2022 and are open to all members of the GitHub community. Any member may contribute to these projects without being a collaborator or a maintainer and earn a T-shirt from DigitalOcean and DEV by making four valid pull requests (PRs) between October 1-31 (in any time zone).
 
 - The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.
-
+Welcome
 **✨ Thanks goes to these wonderful people ✨**
 
 ## License
