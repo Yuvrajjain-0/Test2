@@ -1,6 +1,6 @@
 # Test2
 Test2
- 
+ Sample 
 
 #                                               Hacktoberfest2022
 ![image](https://user-images.githubusercontent.com/99472914/192144059-5cd0b329-f238-474b-b475-7385eaa35d05.png)
@@ -39,7 +39,7 @@ Please read [CONTRIBUTING.md](/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](/CODE_O
 * Read the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
 * Respect people.
 * Be friendly, helpful, and patient.
-* You can contribute in any way.
+* You can contribute in any way you like .
 
 ### Support
 
